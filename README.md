@@ -31,6 +31,7 @@ Visit [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the site
 ## One thing I learned today...
 
 - how to run a simple http server without using Python - [@jenweber](https://github.com/jenweber)
+- as usual, there are many different ways to achieve the same thing (like how fork, download and make a commit) - thank you women who code! [@pat-codes](https://github.com/pat-codes)
 
 ## Things I want to build...
 
